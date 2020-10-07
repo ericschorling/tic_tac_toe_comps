@@ -1,6 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
 import Square from './Square'
 
 class Board extends React.Component {
